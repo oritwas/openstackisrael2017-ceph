@@ -20,3 +20,15 @@ and how this can make inserts into a pool grind to a complete halt.
 Note: Explain how it’s a terrible idea to run databases in virtual
 machines backed by Ceph, because databases usually want you to disable
 any kind of database caching. 
+
+
+### Usability
+
+Note: Ceph is too flexible, there are too many options and configurables. It is hard to monitor the state of the ceph cluster
+
+
+
+
+
+
+

@@ -34,12 +34,20 @@ Note: Explain how we can use RBD for both incremental and full
 backups, thanks to RBD `cinder-backup` integration.
 
 
-## radosgw
+## Radosgw
 ### Drop-in workalike for OpenStack Swift
 
 
 Added benefit:
 ### Swift/S3 mixed access
+
+
+### Geo replication
+
+
+### Meta data search
+
+Note: export meta data into Elastic search
 
 
 ## Performance
